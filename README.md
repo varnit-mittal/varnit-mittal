@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a full stack and Blockchain developer<br>📚 I'm currently learning: AI/ML<br>👱‍♂️ Pronouns: He/Him<br>🎲 Fun fact: I love to sing in the bathroom, but I realize I'm not always the best singer.</p>
+<p align="left">✨ I am a full stack and Blockchain developer<br>📚 AI/ML Specialist<br>👱‍♂️ Pronouns: He/Him<br>🎲 Fun fact: I love to sing in the bathroom, but I realize I'm not always the best singer.</p>
 
 ###
 
